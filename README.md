@@ -1,4 +1,4 @@
-# Currency Vat MS
+# Currency and VAT MS
 
 ## Describe
 
